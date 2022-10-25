@@ -7,9 +7,9 @@ KEY
 
 Completed Games 
                                                                            Platform
-- Call Of Duty Modern Warfare 2 Remastered (Platinum and 100%)                             - PS4
-- Call Of Duty WWII (Platinum) -- Not 100% because zombies trohphies suck                  - PS4
-- MLB The Show 18 (Platinum)                                                               - PS4
+- Call Of Duty Modern Warfare 2 Remastered (100%)                             - PS4
+- Call Of Duty WWII (Platinum)                                                - PS4
+- MLB The Show 18 (Platinum)                                                  - PS4
 
 ---------------------------------------------------------------------------------------------------
 
@@ -18,9 +18,9 @@ Game Backlog								        Current Completion     Platform
       - Maximum of three games on the backlog
       - Lists the percentage that im Currently at 
 
-- Assasins Creed Origins (100%)                                     - 86%                  - PS4
-- Spider-Man (100%) 								  - 62% 			 - PS4
-- Jedi Fallen Order (Platinum)                                      - 38%                  - PS5 
+- Assasins Creed Origins (100%)                     - 91%                  - PS4
+- Spider-Man (100%) 								- 62% 			       - PS4
+- Jedi Fallen Order (Platinum)                      - 38%                  - PS5 
 
 ---------------------------------------------------------------------------------------------------
 
@@ -76,11 +76,13 @@ List of Future Games
 - Sniper Ghost Warrior 3
 - Spider Man: Miles Morales		
 - Star Wars Battlefront
-- Star Wars Battlefront II							             
+- Star Wars Battlefront II		
+- Lego Star Wars The Skywalker Saga 					             
 - The Last Of Us Remastered (Platinum and 100%)                                                                                   
 - The Last Of Us PT II (Platinum and 100%)                                                 
 - The Last Of Us PT I (Platinum) 
 - Tom Clancy's Ghost Recon Wildlands
+- Tom Clancy's Ghost Recon Breakpoint 
 - Tom Clancy's Rainbow Six Seige
 - Uncharted: Drake's Fortune Remastered 
 - Uncharted 2: Among Thieves Remastered
@@ -90,6 +92,8 @@ List of Future Games
 - Watch Dogs 2 
 - Watch Dogs Legion
 - Wolfenstein The New Order
+- Wolfenstien II: The New Colossus 
+- Wolfenstein YoungBlood
           
 ---------------------------------------------------------------------------------------------------
 
@@ -97,10 +101,8 @@ List of Games that I need to Buy
 	- Games that I havent picked up
       - Unreleased games I plan to get 
 
-- Tom Clancy's Ghost Recon Breakpoint 
 - Ratchet & Clank: Rift Apart
 - Batman Arkam Collection 
-- Wolfenstien II: The New Colossus 
 - Returnal
 - Death Stranding Directors Cut 
 - Dead Island 2
@@ -198,5 +200,3 @@ List of games that will never be completed\
 - Warface
 - World of Tanks
 - WWE SmackDown vs. RAW 2010 
-   
-

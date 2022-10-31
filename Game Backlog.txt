@@ -7,6 +7,7 @@ KEY
 
 Completed Games 
                                                                            Platform
+- Assasins Creed Origins (100%)                                               - PS4
 - Call Of Duty Modern Warfare 2 Remastered (100%)                             - PS4
 - Call Of Duty WWII (Platinum)                                                - PS4
 - MLB The Show 18 (Platinum)                                                  - PS4
@@ -18,9 +19,9 @@ Game Backlog								        Current Completion     Platform
       - Maximum of three games on the backlog
       - Lists the percentage that im Currently at 
 
-- Assasins Creed Origins (100%)                     - 91%                  - PS4
-- Spider-Man (100%) 								- 62% 			       - PS4
+- Spider-Man (100%) 								- 74% 			       - PS4
 - Jedi Fallen Order (Platinum)                      - 38%                  - PS5 
+- L.A. Noire                                        - 52%                  - PS4
 
 ---------------------------------------------------------------------------------------------------
 
@@ -68,7 +69,6 @@ List of Future Games
 - Horizon Forbidden West 
 - inFamous: Second Son 
 - Just Cause 3
-- L.A. Noire
 - METRO Exodus 
 - Red Dead Redemption 2	
 - Sniper Elite 3

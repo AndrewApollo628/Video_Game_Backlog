@@ -7,7 +7,7 @@ KEY
 
 Completed Games 
                                                                            Platform
-- Assasins Creed Origins (100%)                                               - PS4
+- Assassin's Creed Origins (100%)                                             - PS4
 - Call Of Duty Modern Warfare 2 Remastered (100%)                             - PS4
 - Call Of Duty WWII (Platinum)                                                - PS4
 - MLB The Show 18 (Platinum)                                                  - PS4
@@ -19,9 +19,9 @@ Game Backlog								        Current Completion     Platform
       - Maximum of three games on the backlog
       - Lists the percentage that im Currently at 
 
-- Spider-Man (100%) 								- 74% 			       - PS4
+- Spider-Man (100%) 								- 75% 			       - PS4
 - Jedi Fallen Order (Platinum)                      - 38%                  - PS5 
-- L.A. Noire                                        - 52%                  - PS4
+- Call of Duty: Modern Warfare II (2022) (Platinum) - 0%                   - PS5
 
 ---------------------------------------------------------------------------------------------------
 
@@ -31,86 +31,99 @@ List of Future Games
 	- Not on the backlog
 	- may never go for 100% for some games 
 	- Might Not make it to the backlog ever :(
-
-- Assasins Creed The Ezio Collection  
-- Assasins Creed III Remastered 
-- Assasins Creed Unity (Platinum and 100%)   
-- Assasins Creed Syndicate (Platinum and 100%)   
-- Assasins Creed Odyssey (Platinum and 100%)   
-- Assasins Creed Valhalla (Platinum and 100%)   
-- BattleFeild 4 (Platinum)
-- Battlefield Hardline (Platinum)
-- BattleField 1 (Platinum)
-- Battlefield V (Platinum)
-- Call of Duty: Ghosts (Platinum)
-- Call of Duty: Advanced Warfare (Platinum)
-- Call of Duty: Black ops III (Platinum)
-- Call of Duty: Infinite Warfare (Platinum)
-- Call of Duty: WWII (Platinum)
-- Call of Duty: Black Ops 4 (Platinum)
-- Call of Duty: Modern Warfare (2019) (Platinum and 100%)
-- CyberPunk 2077
-- DeathLoop
-- Dying Light (Platinum)    
-- Fallout 4 (Platinum and 100%)   														 
-- Far Cry 3: Classic Edition (Platinum)								       
-- Far Cry Primal (Platinum) 											 
-- Far Cry 4 (Platinum and 100%)										 
-- Far Cry 5 (Platinum and 100%)                                                            
-- Far Cry 6 (Platinum and 100%)
-- Ghosts of Tushima
-- Grand Theft Auto III
-- Grand Theft Auto San Andreas 
-- Grand Theft Auto Vice City
-- Grand Theft Auto V
-- Gran Turizmo 7
-- Hitman 3
-- Horizon Zero Dawn
-- Horizon Forbidden West 
-- inFamous: Second Son 
-- Just Cause 3
-- METRO Exodus 
-- Red Dead Redemption 2	
-- Sniper Elite 3
-- Sniper Elite 4
-- Sniper Ghost Warrior 3
-- Spider Man: Miles Morales		
-- Star Wars Battlefront
-- Star Wars Battlefront II		
-- Lego Star Wars The Skywalker Saga 					             
-- The Last Of Us Remastered (Platinum and 100%)                                                                                   
-- The Last Of Us PT II (Platinum and 100%)                                                 
-- The Last Of Us PT I (Platinum) 
-- Tom Clancy's Ghost Recon Wildlands
-- Tom Clancy's Ghost Recon Breakpoint 
-- Tom Clancy's Rainbow Six Seige
-- Uncharted: Drake's Fortune Remastered 
-- Uncharted 2: Among Thieves Remastered
-- Uncharted 3: Drake's Deception Remastered
-- Uncharted 4: A Theif's End    
-- Watch Dogs
-- Watch Dogs 2 
-- Watch Dogs Legion
-- Wolfenstein The New Order
-- Wolfenstien II: The New Colossus 
-- Wolfenstein YoungBlood
+																Platform
+- Assassin's Creed II (Platinum)                                -PS4
+- Assassin's Creed Brotherhood (Platinum)					    -PS4
+- Assassin's Creed Revelations (Platinum)                       -PS4
+- Assassin's Creed III Remastered (Platinum)                    -PS4
+- Assassin's Creed Unity (Platinum and 100%)                    -PS4 
+- Assassin's Creed Syndicate (Platinum and 100%)                -PS4
+- Assassin's Creed Odyssey (Platinum and 100%)                  -PS4   
+- Assassin's Creed Valhalla (Platinum and 100%)                 -PS4/PS5
+- BattleFeild 4 (Platinum)                                      -PS4
+- Battlefield Hardline (Platinum)                               -PS4
+- BattleField 1 (Platinum)                                      -PS4
+- Battlefield V (Platinum)                                      -PS4
+- Battlefield 2042 (Platinum)                                   -PS5
+- Call of Duty: Ghosts (Platinum)                               -PS4
+- Call of Duty: Advanced Warfare (Platinum)                     -PS4
+- Call of Duty: Black ops III (Platinum)      					-PS4
+- Call of Duty: Infinite Warfare (Platinum)                     -PS4
+- Call of Duty: Black Ops 4 (Platinum)                          -PS4
+- Call of Duty: Modern Warfare (2019) (Platinum and 100%)       -PS4
+- CyberPunk 2077 (Platinum)                                     -PS4/PS5
+- DeathLoop (Platinum and 100%)                                 -PS5
+- Dying Light (Platinum and 100%)                               -PS4          
+- Fallout 4 (Platinum and 100%)   								-PS4						 
+- Far Cry 3: Classic Edition (Platinum)							-PS4	       
+- Far Cry Primal (Platinum) 									-PS4		 
+- Far Cry 4 (Platinum and 100%)									-PS4	 
+- Far Cry 5 (Platinum and 100%)                                 -PS4                           
+- Far Cry 6 (Platinum and 100%)                                 -PS5
+- Ghost of Tsushima (Platinum & 100%)                           -PS5
+- Grand Theft Auto III (Platinum)                               -PS4
+- Grand Theft Auto San Andreas (Platinum)                       -PS4
+- Grand Theft Auto Vice City (Platinum)                         -PS4
+- Grand Theft Auto V (Platinum)                                 -PS4
+- Gran Turismo 7 (Platinum)                                     -PS5
+- Hitman 3 (Platinum and 100%)                                  -PS5
+- Horizon Zero Dawn (Platinum and 100%)                         -PS4
+- Horizon Forbidden West (Platinum and 100%)                    -PS5
+- inFamous: Second Son (Platinum)                               -PS4
+- Just Cause 3 (Platinum and 100%)                              -PS4
+- L.A. Noire (Platinum and 100%)                                -PS4
+- METRO Exodus (Platinum and 100%)                              -PS5
+- Red Dead Redemption 2	(Platinum and 100%)                     -PS4
+- Sniper Elite 3 (Platinum and 100%)                            -PS4
+- Sniper Elite 4 (Platinum and 100%)                            -PS4
+- Sniper Ghost Warrior 3 (Platinum)                             -PS4                
+- Spider Man: Miles Morales (Platinum)                          -PS4		
+- Star Wars Battlefront (Platinum)                              -PS4
+- Star Wars Battlefront II (Platinum and 100%)                  -PS4
+- Lego Star Wars The Skywalker Saga (Platinum)    		 		-PS5	             
+- The Last Of Us Remastered (Platinum and 100%)                 -PS4                                                                                   
+- The Last Of Us PT II (Platinum and 100%)                      -PS4                                             
+- The Last Of Us PT I (Platinum)                                -PS5
+- Tom Clancy's Ghost Recon Wildlands (Platinum and 100%)        -PS4
+- Tom Clancy's Ghost Recon Breakpoint (Platinum and 100%)       -PS4
+- Tom Clancy's Rainbow Six Seige (Platinum)                     -PS4
+- Uncharted: Drake's Fortune Remastered (Platinum)              -PS4   
+- Uncharted 2: Among Thieves Remastered (Platinum)              -PS4   
+- Uncharted 3: Drake's Deception Remastered (Platinum)          -PS4   
+- Uncharted 4: A Theif's End (Platinum)                         -PS4   
+- Watch Dogs (Platinum and 100%)                                -PS4
+- Watch Dogs 2 (Platinum and 100%)                              -PS4
+- Watch Dogs Legion (Platinum and 100%)                         -PS5
+- Wolfenstein The New Order (Platinum)                          -PS4
+- Wolfenstien II: The New Colossus (Platinum and 100%)          -PS4 
+- Wolfenstein YoungBlood (Platinum)                             -PS4
           
 ---------------------------------------------------------------------------------------------------
 
 List of Games that I need to Buy 
 	- Games that I havent picked up
       - Unreleased games I plan to get 
-
-- Ratchet & Clank: Rift Apart
-- Batman Arkam Collection 
-- Returnal
-- Death Stranding Directors Cut 
-- Dead Island 2
-- Howgwarts Legacy
-- Assasins Creed Mirage 
-- Call Of Duty: Vanguard 
-- Call of Duty: Black Ops Cold War 
-- God of War Ragnarok 
+																Platform
+- Ratchet & Clank: Rift Apart                                   -PS5
+- Batman Arkam Collection                                       -PS4
+- Returnal                                                      -PS5
+- Death Stranding Directors Cut                                 -PS5
+- Dead Island 2                                                 -PS5
+- Howgwarts Legacy                                              -PS5
+- Assasins Creed Mirage                                         -PS5
+- Call Of Duty: Vanguard                                        -PS5
+- Call of Duty: Black Ops Cold War                              -PS5
+- God of War Ragnarok                                           -PS5
+- Red Dead Redemption                                           -PS3
+- Assassin's Creed                                              -PS3
+- Fallout 3                                                     -PS3
+- Fallout New Vegas                                             -PS3
+- South Park: Stick of Truth                                    -PS4
+- South Park: The Fractured But Whole                           -PS4
+- The Walking Dead: The TellTale Definitve Series               -PS4
+- Star Wars the Force Unleashed                                 -PS3
+- Star Wars the Force Unleashed II                              -PS3 
+- Dead Island                                                   -PS4
 
 ---------------------------------------------------------------------------------------------------
 
@@ -119,7 +132,7 @@ List of games that will never be completed\
       - Alphbetical
 	- ONLINE TROPHIES 
 	- No Platitnum
-	- PS3 games until I can get another PS3 to go back and get some games done 
+	- PS3 games until I can get another PS3 to go back and get some games done (PS3 ordered)
 	- Straight Up Garbage
 
 - Assasins creed IV Black Flag 

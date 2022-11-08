@@ -1,14 +1,16 @@
 KEY
-(Platinum) - Achiving the Platinum is also achiving 100%
-(100%) - Platinum is already achived and going for 100%
-(Platinum and 100%) - There is a Platinum Trophy and also DLC Trophies
+	- (Platinum) - Achiving the Platinum is also achiving 100%
+	- (100%) - Platinum is already achived and going for 100%
+	- (Platinum and 100%) - There is a Platinum Trophy and also DLC Trophies
 
 ---------------------------------------------------------------------------------------------------
 
 Completed Games 
+	- Games That I have Platinum
+	- May or may not have 100%
                                                                            Platform
 - Assassin's Creed Origins (100%)                                             - PS4
-- Call Of Duty Modern Warfare 2 Remastered (100%)                             - PS4
+- Call Of Duty Modern Warfare 2 Remastered (Platinum)                         - PS4
 - Call Of Duty WWII (Platinum)                                                - PS4
 - MLB The Show 18 (Platinum)                                                  - PS4
 
@@ -16,20 +18,21 @@ Completed Games
 
 Game Backlog								        Current Completion     Platform
 	- Games that Im playing at the moment 
-      - Maximum of three games on the backlog
-      - Lists the percentage that im Currently at 
+    - Maximum of three games on the backlog
+    - Lists the percentage that im Currently at 
 
-- Spider-Man (100%) 								- 75% 			       - PS4
-- Jedi Fallen Order (Platinum)                      - 38%                  - PS5 
+- Spider-Man (100%) 								- 89% 			       - PS4
+- Jedi Fallen Order (Platinum)                      - 38%                  - PS4/PS5 
 - Call of Duty: Modern Warfare II (2022) (Platinum) - 0%                   - PS5
 
 ---------------------------------------------------------------------------------------------------
 
 List of Future Games 
 	- Alphbetical
-	- Games Owned on PS4 or PS5 
+	- Games Owned on PS3, PS4, and PS5
 	- Not on the backlog
-	- may never go for 100% for some games 
+	- may never go for 100% for some games because of Multiplayer Trophies
+	- Games that i havent completed the story on
 	- Might Not make it to the backlog ever :(
 																Platform
 - Assassin's Creed II (Platinum)                                -PS4
@@ -45,6 +48,9 @@ List of Future Games
 - BattleField 1 (Platinum)                                      -PS4
 - Battlefield V (Platinum)                                      -PS4
 - Battlefield 2042 (Platinum)                                   -PS5
+- Call of Duty: Modern Warfare 2 (2009) (Platinum)              -PS3
+- Call of Duty: Modern Warfare 3 (Platinum)                     -PS3
+- Call of Duty: Black Ops 2 (Platinum)                          -PS3
 - Call of Duty: Ghosts (Platinum)                               -PS4
 - Call of Duty: Advanced Warfare (Platinum)                     -PS4
 - Call of Duty: Black ops III (Platinum)      					-PS4
@@ -53,7 +59,8 @@ List of Future Games
 - Call of Duty: Modern Warfare (2019) (Platinum and 100%)       -PS4
 - CyberPunk 2077 (Platinum)                                     -PS4/PS5
 - DeathLoop (Platinum and 100%)                                 -PS5
-- Dying Light (Platinum and 100%)                               -PS4          
+- Dying Light (Platinum and 100%)                               -PS4  
+- Fallout 3 (Platinum and 100%)   								-PS3       
 - Fallout 4 (Platinum and 100%)   								-PS4						 
 - Far Cry 3: Classic Edition (Platinum)							-PS4	       
 - Far Cry Primal (Platinum) 									-PS4		 
@@ -64,6 +71,7 @@ List of Future Games
 - Grand Theft Auto III (Platinum)                               -PS4
 - Grand Theft Auto San Andreas (Platinum)                       -PS4
 - Grand Theft Auto Vice City (Platinum)                         -PS4
+- Grand Theft Auto IV (Platinum)                                -PS3
 - Grand Theft Auto V (Platinum)                                 -PS4
 - Gran Turismo 7 (Platinum)                                     -PS5
 - Hitman 3 (Platinum and 100%)                                  -PS5
@@ -73,7 +81,8 @@ List of Future Games
 - Just Cause 3 (Platinum and 100%)                              -PS4
 - L.A. Noire (Platinum and 100%)                                -PS4
 - METRO Exodus (Platinum and 100%)                              -PS5
-- Red Dead Redemption 2	(Platinum and 100%)                     -PS4
+- Red Dead Redemption (Will not go for platinum due to MP)      -PS3
+- Red Dead Redemption 2	(Will not go for platinum due to MP)    -PS4
 - Sniper Elite 3 (Platinum and 100%)                            -PS4
 - Sniper Elite 4 (Platinum and 100%)                            -PS4
 - Sniper Ghost Warrior 3 (Platinum)                             -PS4                
@@ -102,7 +111,7 @@ List of Future Games
 
 List of Games that I need to Buy 
 	- Games that I havent picked up
-      - Unreleased games I plan to get 
+    - Unreleased games I plan to get 
 																Platform
 - Ratchet & Clank: Rift Apart                                   -PS5
 - Batman Arkam Collection                                       -PS4
@@ -114,9 +123,7 @@ List of Games that I need to Buy
 - Call Of Duty: Vanguard                                        -PS5
 - Call of Duty: Black Ops Cold War                              -PS5
 - God of War Ragnarok                                           -PS5
-- Red Dead Redemption                                           -PS3
 - Assassin's Creed                                              -PS3
-- Fallout 3                                                     -PS3
 - Fallout New Vegas                                             -PS3
 - South Park: Stick of Truth                                    -PS4
 - South Park: The Fractured But Whole                           -PS4
@@ -128,7 +135,7 @@ List of Games that I need to Buy
 ---------------------------------------------------------------------------------------------------
 
 
-List of games that will never be completed\
+List of games that will never be completed
       - Alphbetical
 	- ONLINE TROPHIES 
 	- No Platitnum
@@ -141,9 +148,6 @@ List of games that will never be completed\
 - BattleFeild 3
 - Blacklight Retribution
 - Call of Duty: World at War
-- Call of Duty: Modern Warfare 2
-- Call of Duty: Modern Warfare 3
-- Call of Duty: Black Ops 2
 - Destiny 
 - Destiny 2
 - FIFA 11
@@ -153,7 +157,6 @@ List of games that will never be completed\
 - Farming Simulator 19
 - Friday the 13th
 - GoldenEye 007: Reloaded
-- Grand Teft Auto: IV
 - Guitar Hero Live
 - H1Z1
 - Hitman

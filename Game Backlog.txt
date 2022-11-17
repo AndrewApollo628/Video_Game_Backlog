@@ -22,8 +22,9 @@ Game Backlog								        Current Completion     Platform
     - Maximum of three games on the backlog
     - Lists the percentage that im Currently at 
 
-- Call of Duty: Modern Warfare II (2022) (Platinum) - 39%                  - PS5
+- Call of Duty: Modern Warfare II (2022) (Platinum) - 82%                  - PS5
 - Jedi Fallen Order (Platinum)                      - 38%                  - PS4/PS5 
+- Fallout 3 (Platinum and 100%) 					- 0%                   - PS3
 
 
 ---------------------------------------------------------------------------------------------------
@@ -61,8 +62,7 @@ List of Future Games
 - Call of Duty: Modern Warfare (2019) (Platinum and 100%)       -PS4
 - CyberPunk 2077 (Platinum)                                     -PS4/PS5
 - DeathLoop (Platinum and 100%)                                 -PS5
-- Dying Light (Platinum and 100%)                               -PS4  
-- Fallout 3 (Platinum and 100%)   								-PS3  
+- Dying Light (Platinum and 100%)                               -PS4    
 - Fallout New Vegas (Platinum and 100%)                         -PS3     
 - Fallout 4 (Platinum and 100%)   								-PS4						 
 - Far Cry 3: Classic Edition (Platinum)							-PS4	       
